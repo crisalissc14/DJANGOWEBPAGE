@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv/
+db.sqlite3
+/static/
+.DS_Store
+# Ignorar la carpeta de localización y archivos de traducción compilados
+locale/
+*.mo
+*.pot
